@@ -1,0 +1,28 @@
+{
+  "name": "number-literal.js",
+  "version": "0.3.3",
+  "description": "Sencilla y pequeña libreria para pasar un Número a Texto",
+  "license": "MIT",
+  "repository": "MasAval/number-literal.js",
+  "author": "Baltazar Ochagavia",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "number",
+    "text",
+    "spanish",
+    "español"
+  ],
+  "devDependencies": {
+    "ava": "^0.24.0"
+  },
+  "dependencies": {}
+}
